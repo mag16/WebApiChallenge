@@ -10,7 +10,6 @@ module.exports = {
   remove,
 };
 
-
 function find() {
   return db('users');
 }
